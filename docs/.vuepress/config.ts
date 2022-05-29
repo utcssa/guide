@@ -9,6 +9,7 @@ export default defineUserConfig({
   description: "UTCSSA 新生手册，你的奥斯汀留学生活指南",
   theme: defaultTheme({
     docsRepo: "utcssa/guide",
+    editLinkPattern: ":repo/edit/:branch/docs/:path",
     navbar,
     sidebar,
     sidebarDepth: 1,
