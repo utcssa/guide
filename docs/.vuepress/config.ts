@@ -13,6 +13,9 @@ export default defineUserConfig({
     navbar,
     sidebar,
     sidebarDepth: 1,
+    tip: "💡 小贴士",
+    warning: "⚠️ 注意",
+    danger: "🚨 警告",
   }),
   markdown: {
     linkify: true,
