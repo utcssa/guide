@@ -564,19 +564,6 @@
     "@vuepress/core" "2.0.0-beta.46"
     prismjs "^1.28.0"
 
-"@vuepress/plugin-search@^2.0.0-beta.46":
-  version "2.0.0-beta.46"
-  resolved "https://registry.yarnpkg.com/@vuepress/plugin-search/-/plugin-search-2.0.0-beta.46.tgz#52bf0e85988813b62777a966b6880ac93b17b3fa"
-  integrity sha512-gk8im+UoWgR+1LcuerBgnH+Guq7KNW4d+Q2EICAnpDgfL0AUII11s3eT5ZsdssUTWBsYdah7DmBJLeR+sOxbqg==
-  dependencies:
-    "@vuepress/client" "2.0.0-beta.46"
-    "@vuepress/core" "2.0.0-beta.46"
-    "@vuepress/shared" "2.0.0-beta.46"
-    "@vuepress/utils" "2.0.0-beta.46"
-    chokidar "^3.5.3"
-    vue "^3.2.35"
-    vue-router "^4.0.15"
-
 "@vuepress/plugin-theme-data@2.0.0-beta.46":
   version "2.0.0-beta.46"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-theme-data/-/plugin-theme-data-2.0.0-beta.46.tgz#e0f3d33566c1c21931b4160c04d05216b4c86585"
@@ -2117,6 +2104,16 @@ postcss@^8.1.10, postcss@^8.4.13, postcss@^8.4.14:
     nanoid "^3.3.4"
     picocolors "^1.0.0"
     source-map-js "^1.0.2"
+
+prettier-config-vuepress@^1.4.0:
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/prettier-config-vuepress/-/prettier-config-vuepress-1.4.0.tgz#c42cd5cf8cfc1f37033b7d20829f0bd08ab3d8be"
+  integrity sha512-GP/Hfl+L4/0S8QiKWgym6+7HXXilBHDj8O61LiGVHmJASqMFdX9P99r8rBHxK9mTXSd6OYGbBJxxMlz80YDxQQ==
+
+prettier@2.6.2:
+  version "2.6.2"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.6.2.tgz#e26d71a18a74c3d0f0597f55f01fb6c06c206032"
+  integrity sha512-PkUpF+qoXTqhOeWL9fu7As8LXsIUZ1WYaJiY/a7McAQzxjk82OF0tibkFXVCDImZtWxbvojFjerkiLb0/q8mew==
 
 prismjs@^1.28.0:
   version "1.28.0"
