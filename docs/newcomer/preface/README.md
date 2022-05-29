@@ -1,6 +1,5 @@
 ---
-title: 序言
-lang: zh-CN
+next: /newcomer/preface/about
 ---
 
 ::: warning 🚧 Work in Progress

@@ -1,3 +1,7 @@
+---
+next: /newcomer/chapter-3
+---
+
 # 选课
 
 ## 本科新生选课指南

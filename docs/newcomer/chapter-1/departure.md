@@ -1,3 +1,7 @@
+---
+prev: /newcomer/chapter-1
+---
+
 # 出发信息确认
 
 ## 确定出发时间

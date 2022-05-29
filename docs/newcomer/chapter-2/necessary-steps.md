@@ -1,3 +1,7 @@
+---
+prev: /newcomer/chapter-2
+---
+
 # 入学必要步骤
 
 ## Student ID 办理

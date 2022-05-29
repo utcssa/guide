@@ -1,3 +1,7 @@
+---
+prev: /newcomer/chapter-3
+---
+
 # 本科生宿舍指南
 
 学校提供给本科生的宿舍位于校园范围之内，详细介绍请见学校链接： http://housing.utexas.edu

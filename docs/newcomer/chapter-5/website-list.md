@@ -1,3 +1,7 @@
+---
+next: /newcomer/appendix
+---
+
 # 美国生活实用网址大全
 
 ## 学习工作篇

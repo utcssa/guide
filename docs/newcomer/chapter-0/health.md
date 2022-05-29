@@ -1,3 +1,7 @@
+---
+next: /newcomer/chapter-1
+---
+
 # 体检和疫苗
 
 ## 出国体检

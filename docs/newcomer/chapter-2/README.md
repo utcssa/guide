@@ -1,3 +1,8 @@
+---
+prev: /newcomer/chapter-1/security-checks
+next: /newcomer/chapter-2/necessary-steps
+---
+
 # 第贰章 · 初来乍到
 
 - 以下会提供一个较为全面的参考清单，不过大家还是应该以 IO 和院系的官方要求为准。

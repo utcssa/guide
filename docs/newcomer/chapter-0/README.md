@@ -1,6 +1,6 @@
 ---
-title: 第零章 · 从零开始
-lang: zh-CN
+prev: /newcomer/preface/about
+next: /newcomer/chapter-0/contact-us
 ---
 
 # 第零章 · 从零开始

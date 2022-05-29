@@ -1,3 +1,7 @@
+---
+prev: /newcomer/chapter-4
+---
+
 # 超市
 
 ## 亚洲超市

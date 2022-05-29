@@ -1,3 +1,7 @@
+---
+prev: /newcomer/appendix
+---
+
 # 附录一：答疑手册
 
 ## 生活篇

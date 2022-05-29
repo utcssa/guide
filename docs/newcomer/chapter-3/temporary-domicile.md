@@ -1,3 +1,7 @@
+---
+next: /newcomer/chapter-4
+---
+
 # 临时住所
 
 （如果抵达 Austin 的时间早于入住时间）

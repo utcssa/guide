@@ -1,3 +1,8 @@
+---
+prev: /newcomer/chapter-0/health
+next: /newcomer/chapter-1/departure
+---
+
 # 第壹章 · 作别故土
 
 - [出发信息确认](./departure.md)
