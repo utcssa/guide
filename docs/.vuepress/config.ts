@@ -38,6 +38,7 @@ export default defineUserConfig({
   plugins: [
     mdEnhancePlugin({
       tasklist: { disabled: false },
+      align: true,
     }),
   ],
 })

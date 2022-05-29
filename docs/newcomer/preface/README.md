@@ -1,4 +1,5 @@
 ---
+title: 新生手册 序言
 next: /newcomer/preface/about
 ---
 
@@ -16,6 +17,10 @@ next: /newcomer/preface/about
 
 祝大家一路平安，我们奥斯汀见！Hook 'em horns!
 
-UTCSSA 行政部
+::: right
+
+**UTCSSA 行政部**
 
 2021 年 6 月
+
+:::
