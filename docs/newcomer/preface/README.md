@@ -19,8 +19,7 @@ next: /newcomer/preface/about
 
 ::: right
 
-**UTCSSA 行政部**
-
+**UTCSSA 行政部** \
 2021 年 6 月
 
 :::

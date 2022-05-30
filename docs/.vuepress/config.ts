@@ -1,12 +1,14 @@
-import { defineUserConfig, defaultTheme } from 'vuepress'
+import { defineUserConfig } from 'vuepress'
+import { localTheme } from './theme'
 import { navbar, sidebar } from './configs'
 import { mdEnhancePlugin } from 'vuepress-plugin-md-enhance'
+import { commentPlugin } from 'vuepress-plugin-comment2'
 
 export default defineUserConfig({
   lang: 'zh-CN',
   title: 'UTCSSA 指南',
   description: 'UTCSSA 指南，你的奥斯汀留学生活学习指南',
-  theme: defaultTheme({
+  theme: localTheme({
     docsRepo: 'utcssa/guide',
     editLinkPattern: ':repo/edit/:branch/docs/:path',
     navbar,
@@ -39,6 +41,13 @@ export default defineUserConfig({
     mdEnhancePlugin({
       tasklist: { disabled: false },
       align: true,
+    }),
+    commentPlugin({
+      type: 'giscus',
+      repo: 'utcssa/guide',
+      repoId: 'R_kgDOHaMZ9g',
+      category: 'Giscus Comments',
+      categoryId: 'DIC_kwDOHaMZ9s4CPXNu',
     }),
   ],
 })
