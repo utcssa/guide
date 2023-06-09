@@ -16,6 +16,15 @@ const navbar: NavbarConfig = [
     ],
   },
   {
+    text: '选课指南',
+    children: [
+      { text: '序言', link: '/course-guide/preface' },
+      { text: 'Introduction', link: '/course-guide/Introduction' },
+      { text: 'Core Curriculum', link: '/course-guide/CoreCurriculum' },
+      { text: 'Colleges', link: '/course-guide/College' },
+    ],
+  },
+  {
     text: 'UTCSSA',
     children: [
       { text: '官网', link: 'https://utcssa.net/' },
