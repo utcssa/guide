@@ -1,7 +1,7 @@
 import { SidebarConfig } from 'vuepress'
 
 const sidebar: SidebarConfig = {
-  '/': [
+  '/newcomer/': [
     {
       text: '序言',
       link: '/newcomer/preface',
@@ -79,6 +79,55 @@ const sidebar: SidebarConfig = {
     {
       text: '附录',
       children: ['/newcomer/appendix/faq.md'],
+    },
+  ],
+  '/course-guide': [
+    {
+      text: '序言',
+      link: '/course-guide/preface',
+      collapsible: true,
+    },
+    {
+      text: 'Introduction',
+      link: '/course-guide/Introduction',
+      children: [
+        '/course-guide/Introduction/选课checklist.md',
+        '/course-guide/Introduction/DegreePlanLinks.md',
+        '/course-guide/Introduction/ClaimCredit.md',
+        '/course-guide/Introduction/选课时非常有用的网站.md',
+        '/course-guide/Introduction/超17学分申请流程.md',
+        '/course-guide/Introduction/各项评分参考.md',
+      ],
+      collapsible: true,
+    },
+    {
+      text: 'CoreCurriculum',
+      link: '/course-guide/CoreCurriculum',
+      children: [
+        '/course-guide/CoreCurriculum/UGS.md',
+        '/course-guide/CoreCurriculum/Government&History.md',
+        '/course-guide/CoreCurriculum/Social&BehavioralScience.md',
+        '/course-guide/CoreCurriculum/Mathematics.md',
+        '/course-guide/CoreCurriculum/NatureScience.md',
+        '/course-guide/CoreCurriculum/English.md',
+        '/course-guide/CoreCurriculum/VAPA.md',
+      ],
+      collapsible: true,
+    },
+    {
+      text: 'Colleges',
+      link: '/course-guide/College',
+      children: [
+        '/course-guide/College/CockrellSchoolOfEngineering.md',
+        '/course-guide/College/CollegeOfNaturalScience.md',
+        '/course-guide/College/McCombsSchoolOfBusiness.md',
+        '/course-guide/College/MoodyCollegeOfCommunication.md',
+        '/course-guide/College/CollegeOfLiberalArts.md',
+        '/course-guide/College/CollegeOfEducation.md',
+        '/course-guide/College/JacksonSchoolOfGeosciences.md',
+        '/course-guide/College/CollegeOfFineArts.md',
+      ],
+      collapsible: true,
     },
   ],
 }
