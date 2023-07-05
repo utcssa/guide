@@ -5,7 +5,7 @@ next: /newcomer/chapter-0
 
 # 关于我们
 
-![](~@source/images/utcssa.jpg)
+![](~@source/images/utcssa.jpeg)
 
 UTCSSA 成立于 1982 年，是一个非盈利、非政治、非宗教的学生组织，服务于 UT 社区的全体中国学生学者，致力于打造丰富的 UT 校园生活。同时，我们也竭尽所能团结奥斯汀华人社区，共同为奥斯汀华人营造和谐的氛围。Connect People, Serve Better!
 
