@@ -78,7 +78,7 @@ const sidebar: SidebarConfig = {
     },
     {
       text: '附录',
-      children: ['/newcomer/appendix/faq.md'],
+      children: ['/newcomer/appendix/faq.md', '/newcomer/appendix/sponsors.md'],
     },
   ],
   '/course-guide': [
