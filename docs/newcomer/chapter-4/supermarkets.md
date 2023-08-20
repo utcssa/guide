@@ -83,3 +83,8 @@ prev: /newcomer/chapter-4
 ### Sams' Club
 
 - 同上，需要会员卡。
+
+### Trader Joe's
+
+
+- 自家品牌价格亲民性价比高。也售卖speciality 但价格较贵。
