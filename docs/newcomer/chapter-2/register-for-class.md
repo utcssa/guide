@@ -12,7 +12,7 @@ next: /newcomer/chapter-3
 
 以下方法主要是针对本科生的建议。研究生选择自由度不大，一般可以去找自己的 supervisor 或者系里本方向的 advisor 解决。
 
-2021-2022 版 UTCSSA 选课指南：https://utcssa.net/course-guide
+- Fall 2023版UTCSSA 选课指南：https://utcssa.net/course-guide
 
 ## 预先了解 Interactive Degree Audit 系统
 
