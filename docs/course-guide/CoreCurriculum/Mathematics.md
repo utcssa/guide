@@ -4,6 +4,105 @@ next: /course-guide/CoreCurriculum/NatureScience.md
 ---
 
 # Mathematics
+M 408L: INTEGRAL CALCULUS
+任课教授：Ishraq Al-Awamleh
+授课形式：线下
+上该课的学期：Fall 2023
+Expected Letter Grade：A
+评分：
+- 教授Office Hour：3.0
+- 教授口齿清晰程度：3.0
+- 课程作业量：3.0
+- 课程阅读量：1.0
+- 作业难度：5.0
+- 考试难度：2.0
+- Lecture Recording：无
+- Lecture Attendance：不记录
+- Discussion Session：有，记考勤
+- Extra Credit：无
+- 教授授课水平：3.0
+详细评价/建议：
+作业不是人做的 但是考试没那么难​​
+
+
+M 408L: INTEGRAL CALCULUS
+任课教授：Ishraq Al-Awamleh
+授课形式：线下
+上该课的学期：Fall 2023
+Expected Letter Grade：A
+评分：
+- 教授Office Hour：1.0
+- 教授口齿清晰程度：2.0
+- 课程作业量：5.0
+- 课程阅读量：1.0
+- 作业难度：5.0
+- 考试难度：3.0
+- Lecture Recording：无
+- Lecture Attendance：不记录
+- Discussion Session：有，不记考勤
+- Extra Credit：无
+- 教授授课水平：3.0
+详细评价/建议：
+难，作业和discussion特别难。（考试还行）
+
+M 408L: INTEGRAL CALCULUS
+任课教授：Ishraq Al-Awamleh
+授课形式：线下
+上该课的学期：Fall 2023
+Expected Letter Grade：A-
+评分：
+- 教授Office Hour：2.0
+- 教授口齿清晰程度：2.0
+- 课程作业量：5.0
+- 课程阅读量：1.0
+- 作业难度：5.0
+- 考试难度：4.0
+- Lecture Recording：无
+- Lecture Attendance：不记录
+- Discussion Session：有，记考勤
+- Extra Credit：无
+- 教授授课水平：2.0
+详细评价/建议：
+别来吧，课上难度很大而且教的不算很好。课前还有作业在quest上很容易忘记做。每周作业非常难不建议大一选这门课。
+
+M 348: SCIENTIFIC COMPUTATION IN NUMERICAL ANALYSIS
+任课教授：Joseph Kileel
+授课形式：线下
+上该课的学期：Fall 2023
+Expected Letter Grade：A
+评分：
+- 教授Office Hour：1.0
+- 教授口齿清晰程度：5.0
+- 课程作业量：4.0
+- 课程阅读量：4.0
+- 作业难度：4.0
+- 考试难度：3.0
+- Lecture Recording：无
+- Lecture Attendance：不记录
+- Discussion Session：无
+- Extra Credit：无
+- 教授授课水平：3.0
+详细评价/建议：
+看textbook比上课清楚
+
+SDS 302F: FOUNDATIONS OF DATA ANALYSIS
+任课教授：Kyong Joo Hong
+授课形式：混合
+上该课的学期：Fall 2023
+评分：
+- 教授Office Hour：1.0
+- 教授口齿清晰程度：3.0
+- 课程作业量：2.0
+- 课程阅读量：1.0
+- 作业难度：2.0
+- 考试难度：2.0
+- Lecture Recording：有
+- Lecture Attendance：不记录
+- Discussion Session：有，记考勤
+- Extra Credit：有
+- 教授授课水平：3.0
+详细评价/建议：
+听了就能过 考试可以带cheatsheet
 
 M 304L: MATRIX
 任课教授:Dr. Nibert 上该课的学期:Fall 2022 Expected Letter Grade:B

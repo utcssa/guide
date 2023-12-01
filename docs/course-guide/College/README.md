@@ -14,3 +14,5 @@ next: /course-guide/College/CockrellSchoolOfEngineering.md
 - [School of Infomation](./SchoolOfInfomation.md)
 - [Jackson School of Geosciences](./JacksonSchoolOfGeosciences.md)
 - [College of Fine Arts](./CollegeOfFineArts.md)
+- [School of Architecture](./SchoolOfArchitecture.md)
+- [School of Law](./SchoolOfLaw.md)
