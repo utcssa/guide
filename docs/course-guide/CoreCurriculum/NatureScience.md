@@ -4,6 +4,101 @@ next: /course-guide/CoreCurriculum/English.md
 ---
 
 # Nature Science
+CH 390K：MATERIALS CHEMISTRY
+任课教授：Dr. Aubrey
+授课形式：线下
+上该课的学期：Fall 2023
+评分：
+- 总体工作量：3
+- 课程阅读量：5
+- 作业难度：5
+- 考试难度：5
+- 教授口齿清晰度：1
+- 教授讲课水平：3
+- Office Hour：1
+- Lecture Recording：无
+- Attendance：不记录
+- Extra Credit：无
+- Discussion Session：无
+
+CS 303E：ELEMENTS OF COMPUTERS/PROGRAMMING
+任课教授：Amrita Kaur
+授课形式：线下
+上该课的学期：Fall 2023
+Expected Letter Grade：A
+评分：
+- 总体工作量：3
+- 课程阅读量：1
+- 作业难度：3
+- 考试难度：4
+- 教授口齿清晰度：5
+- 教授讲课水平：5
+- Office Hour：3
+- Lecture Recording：无
+- Attendance：记录
+- Extra Credit：是
+- Discussion Session：无
+评价和建议：
+Python入门课挺好的作业，会多给一天的延长ddl，教授之前是斯坦福的
+
+AST 301：INTRODUCTION TO ASTRONOMY
+任课教授：Dr. Will Best
+授课形式：线下
+上该课的学期：Fall 2023
+Expected Letter Grade：A
+评分：
+- 总体工作量：2
+- 课程阅读量：3
+- 作业难度：1
+- 考试难度：1
+- 教授口齿清晰度：5
+- 教授讲课水平：4
+- Office Hour：3
+- Lecture Recording：无
+- Attendance：记录
+- Extra Credit：是
+- Discussion Session：无
+评价和建议：
+课程内容很有趣 拿分也不难 需要science的可以选
+
+ANT304: INTRO ARCHAEOL STDS: PREHIST
+任课教授：Professor Valdez
+授课形式：线下
+上该课的学期：Fall 2023
+Expected Letter Grade：A
+评分：
+- 总体工作量：3
+- 课程阅读量：4
+- 作业难度：2
+- 考试难度：3
+- 教授口齿清晰度：3
+- 教授讲课水平：3
+- Office Hour：3
+- Lecture Recording：无
+- Attendance：不记录
+- Extra Credit：无
+- Discussion Session：有且记考勤
+评价和建议：
+周一早八伤不起。。。而且lecture听的也有点痛苦。虽然内容不难，但是完全干讲，没有ppt，很少板书，一些专有名词不知道怎么拼很容易跟不上。不过早八不计考勤，另外教授不给提供任何ppt，付费教材是教授自己写的，卖60刀，因为是新出版所以没法薅羊毛。lab课内容不难，每周有一个lab课的assignment。没有mid和final但是差不多两周一个test，一共五个，最低分可以drop，test只要认真看他的教材就不难。不是水课，但同时有nature science1的core和global cultures的flag，所以可以选。
+
+CS 303E：ELEMENTS OF PROGRAMMING
+任课教授：Kaur Amrita
+授课形式：线下
+上该课的学期：Fall 2023
+评分：
+- 总体工作量：3
+- 课程阅读量：1
+- 作业难度：4
+- 考试难度：5
+- 教授口齿清晰度：5
+- 教授讲课水平：5
+- Office Hour：5
+- Lecture Recording：无
+- Attendance：不记录
+- Extra Credit：是
+- Discussion Session：无
+评价和建议：
+非常好， 作业考试有些难， 平时多去Office hour
 
 M 340L:MATRICES AND MATRIX CALCULATIONS
 任课教授:Hans Koch 授课形式:线下 上该课的学期: Fall 2022 Expected Letter Grade: A-/B

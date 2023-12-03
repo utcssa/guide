@@ -4,6 +4,347 @@ next: /course-guide/College/CollegeOfEducation.md
 ---
 
 # College of Liberal Arts
+HIS 317L: Introduction to American Indian Histories
+任课教授: Erika M. Bsumek
+授课形式:线下
+上该课的学期:Fall 2023
+评分:
+教授Office Hour:2.0
+教授口齿清晰程度:5.0
+课程作业量:2.0
+课程阅读量:1.0
+作业难度:1.0
+考试难度:3.0
+Lecture Recording: 无
+ 
+Lecture Attendance:无
+Discussion Session: 无Extra Credit:有
+详细评价/建议:midterm是in person的，要现场写essay。期末是take home。每周有reading然后写discussion post，一般写了都是满分。
+
+ANT 301
+任课教授: Chris Kirk
+授课形式:线下
+上该课的学期:Fall 2023
+评分:
+教授Office Hour:2.0
+教授口齿清晰程度:5.0
+课程作业量:0.0
+课程阅读量:0.0
+作业难度:0.0
+考试难度:5.0
+Lecture Recording: 无
+ 
+Lecture Attendance: 无
+Discussion Session: 无Extra Credit:无
+详细评价/建议:千万别选！！！！考试巨难纯靠背和默写，study guide是TA做的和考试试卷没有太多关系。没有curve。3场midterm，2场lab考试。教授不发上课的ppt并且禁止给ppt拍照。选了这课指定没你好果汁吃
+
+
+SOC 302: Introduction to the Study of Society
+
+任课教授: Mehdi Haghshenas
+授课形式:线下
+上该课的学期:Fall 2023
+评分:
+教授Office Hour:2.0
+教授口齿清晰程度:3.0
+课程作业量:2.0
+课程阅读量:5.0
+作业难度:1.0
+考试难度:3.0
+Lecture Recording: 无
+ 
+Lecture Attendance: 有
+Discussion Session: 无Extra Credit:无
+详细评价/建议:作业基本上都给100，阅读很多，上课attendance取决于TA。考试在canvas上进行。
+
+ECO 330T: THE EVOLUTION OF ECON THOUGHT
+任课教授：Wayne Geerling
+授课形式：线下
+上该课的学期：Fall 2023
+Expected Letter Grade: B
+评分：
+-     教授Office Hour：1.0
+-     教授口齿清晰程度：1.0
+-     课程作业量：2.0
+-     课程阅读量：4.0
+-     作业难度：2.0
+-     考试难度：5.0
+-     Lecture Recording：无
+-     Lecture Attendance：记录
+-     Discussion Session：无
+-     Extra Credit：有
+-     教授授课水平：1.0
+详细评价/建议：
+教授有很强的澳洲口音，考试是些essay，全靠理解
+
+HS 301: INTRO TO HEALTH AND SOCIETY
+任课教授：Steph osbakken, ph d
+授课形式：线下
+上该课的学期：Fall 2023
+评分：
+-    教授Office Hour：5.0
+-    教授口齿清晰程度：5.0
+-    课程作业量：3.0
+-    课程阅读量：4.0
+-    作业难度：4.0
+-    考试难度：3.0
+-    Lecture Recording：有
+-      Lecture Attendance：记录
+-      Discussion Session：无
+-      Extra Credit：有
+-      教授授课水平：5.0
+详细评价/建议：
+-      很好的课。Health and Society的必修专业课，作为一门社科课，对公共卫生有兴趣的可以参加。总体阅读量有一点但是读起来不会很枯燥。教授很愿意记学生的名字和office hour交流，虽然是大课但是上课的时候和学生交流频率很高。
+
+MUS-307: JAZZ APPRECIATION
+任课教授：Sailors
+授课形式：线下
+上该课的学期：Fall 2023
+Expected Letter Grade: 95
+评分：
+-      教授Office Hour：3.0
+-      教授口齿清晰程度：4.0
+-      课程作业量：2.0
+-      课程阅读量：1.0
+-      作业难度：1.0
+-      考试难度：1.0
+-      Lecture Recording：有
+-      Lecture Attendance：记录
+-      Discussion Session：无
+-      Extra Credit：无
+-      教授授课水平：4.0
+详细评价/建议：
+-      轻松水课
+
+
+ECO 320L: MACROECONOMIC THEORY
+任课教授：Andreas mueller
+授课形式：线下
+上该课的学期：Spring 2023
+Expected Letter Grade: A
+评分：
+-      教授Office Hour：3.0
+-      教授口齿清晰程度：1.0
+-      课程作业量：2.0
+-      课程阅读量：1.0
+-      作业难度：1.0
+-      考试难度：1.0
+-      Lecture Recording：无
+-      Lecture Attendance：不记录
+-      Discussion Session：无
+-      Extra Credit：无
+-      教授授课水平：5.0
+详细评价/建议：
+-      工作量很小的一门宏观，2 problem sets, 2 midterms, 1 final。有课本但不会强制阅读，作业只会在midterm前due。教授讲课非常好，上课认真听就不会有问题。强烈推荐！
+
+
+ECO 353M: EMPIRICAL PUBLIC ECONOMICS
+任课教授：David 
+授课形式：线下
+上该课的学期：Fall 2023
+Expected Letter Grade: A
+评分：
+-      教授Office Hour：3.0
+-      教授口齿清晰程度：5.0
+-      课程作业量：2.0
+-      课程阅读量：2.0
+-      作业难度：2.0
+-      考试难度：2.0
+-      Lecture Recording：有
+-      Lecture Attendance：不记录
+-      Discussion Session：无
+-      Extra Credit：无
+-      教授授课水平：4.0
+详细评价/建议：
+-      好，很好，非常好
+
+
+ECO441K: INTRODUCTION TO ECONOMETRICS
+任课教授：Xu, haiqing 
+授课形式：线下
+上该课的学期：Fall 2023
+Expected Letter Grade: A
+评分：
+-      教授Office Hour：3.0
+-      教授口齿清晰程度：2.0
+-      课程作业量：2.0
+-      课程阅读量：1.0
+-      作业难度：2.0
+-      考试难度：2.0
+-      Lecture Recording：有
+-      Lecture Attendance：不记录
+-      Discussion Session：无
+-      Extra Credit：无
+-      教授授课水平：3.0
+详细评价/建议：
+-      挺好的，会一点基本的数据知识就比较简单
+
+
+ANT307: ANTHROPOLOGY
+任课教授：Slotta
+授课形式：线下
+上该课的学期：Fall 2023
+Expected Letter Grade: 90
+评分：
+-      教授Office Hour：2.0
+-      教授口齿清晰程度：4.0
+-      课程作业量：4.0
+-      课程阅读量：4.0
+-      作业难度：4.0
+-      考试难度：3.0
+-      Lecture Recording：有
+-      Lecture Attendance：不记录
+-      Discussion Session：无
+-      Extra Credit：无
+-      教授授课水平：2.0
+详细评价/建议：
+-      要读很多很多很多文章。。
+
+PSY 352P: PSYCHOPATHOLOGY
+任课教授：Dr. caryn carlson & dr. chris beevers
+授课形式：线上
+上该课的学期：Fall 2023
+Expected Letter Grade: A/A-
+评分：
+-      教授Office Hour：2.0
+-      教授口齿清晰程度：5.0
+-      课程作业量：4.0
+-      课程阅读量：4.0
+-      作业难度：3.0
+-      考试难度：4.0
+-      Lecture Recording：有
+-      Lecture Attendance：不记录
+-      Discussion Session：无
+-      Extra Credit：无
+-      教授授课水平：5.0
+详细评价/建议：
+-      挺好的课，讲得蛮清楚的。考试是open book open note, 好好看lecture和reading没太大问题。
+
+ECO320L: MACROECONOMIC THEORY
+任课教授：Stephano eusepi
+授课形式：线下
+上该课的学期：Fall 2023
+Expected Letter Grade: A
+评分：
+-      教授Office Hour：2.0
+-      教授口齿清晰程度：3.0
+-      课程作业量：1.0
+-      课程阅读量：1.0
+-      作业难度：2.0
+-      考试难度：2.0
+-      Lecture Recording：有
+-      Lecture Attendance：不记录
+-      Discussion Session：无
+-      Extra Credit：无
+-      教授授课水平：2.0
+详细评价/建议：
+-      听讲课不如看ppt
+
+
+ECO 371M: OUTSIDE THE MARKET
+任课教授：Thomas wiseman
+授课形式：线下
+上该课的学期：Spring 2023
+Expected Letter Grade: A+
+评分：
+-      教授Office Hour：2.0
+-      教授口齿清晰程度：5.0
+-      课程作业量：1.0
+-      课程阅读量：2.0
+-      作业难度：2.0
+-      考试难度：2.0
+-      Lecture Recording：无
+-      Lecture Attendance：不记录
+-      Discussion Session：无
+-      Extra Credit：无
+-      教授授课水平：5.0
+详细评价/建议：
+-      上课听讲，再就看看书，没有难度
+
+
+ECO 354K: INTRODUCTORY GAME THEORY
+任课教授：Caroline d thomas
+授课形式：线下
+上该课的学期：Spring 2023
+Expected Letter Grade: A
+评分：
+-      教授Office Hour：5.0
+-      教授口齿清晰程度：2.0
+-      课程作业量：3.0
+-      课程阅读量：1.0
+-      作业难度：4.0
+-      考试难度：5.0
+-      Lecture Recording：无
+-      Lecture Attendance：不记录
+-      Discussion Session：无
+-      Extra Credit：无
+-      教授授课水平：3.0
+详细评价/建议：
+-      教授是法式英音，语速也很快，上课听讲有一定压力。如果说有什么能力对这门课最重要，那就是聪明。思维和反应速度要快，否则考试做不完的，作业也会很痛苦。基本不涉及经济知识（除了expected utility），数学需要基本的概率论和微积分，然后就是靠脑子了。这门课推荐硕博想读经济/应数的同学上。
+
+ANS 392C: INTRODUCTION TO CHINA
+任课教授：Chiu-mi lai
+授课形式：线下
+上该课的学期：Fall 2023
+Expected Letter Grade: B
+评分：
+-      教授Office Hour：3.0
+-      教授口齿清晰程度：4.0
+-      课程作业量：3.0
+-      课程阅读量：3.0
+-      作业难度：4.0
+-      考试难度：4.0
+-      Lecture Recording：有
+-      Lecture Attendance：不记录
+-      Discussion Session：无
+-      Extra Credit：无
+-      教授授课水平：3.0
+详细评价/建议：
+-      不建议上 grading is a myth 我用了第一个pass and fail的机会
+
+
+ECO304K: INTRODUCTION TO MICROECONOMICS
+任课教授：Dr. Fourmy
+授课形式：线下
+上该课的学期：Fall 2023
+Expected Letter Grade: N/A
+评分：
+-      教授Office Hour：1.0
+-      教授口齿清晰程度：3.0
+-      课程作业量：4.0
+-      课程阅读量：3.0
+-      作业难度：3.0
+-      考试难度：3.0
+-      Lecture Recording：有
+-      Lecture Attendance：记录
+-      Discussion Session：无
+-      Extra Credit：有
+-      教授授课水平：3.0
+详细评价/建议：
+-      挺好的
+
+
+
+J 610D: JAPANESE
+任课教授：Duffey
+授课形式：线下
+上该课的学期：Fall 2023
+Expected Letter Grade: N/A
+评分：
+-      教授Office Hour：3.0
+-      教授口齿清晰程度：5.0
+-      课程作业量：2.0
+-      课程阅读量：1.0
+-      作业难度：2.0
+-      考试难度：3.0
+-      Lecture Recording：无
+-      Lecture Attendance：记录
+-      Discussion Session：无
+-      Extra Credit：无
+-      教授授课水平：4.0
+
+详细评价/建议：
+-      非常好， 学日语的同学就选Duffey 先生
 
 ANS 379: DEATH AND THE AFTERLIFE IN ANCIENT CHINA
 任课教授:Luke Waring 授课形式:线下 上该课的学期:Spring 2023 Expected Letter Grade:A

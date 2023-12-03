@@ -4,6 +4,168 @@ next: /course-guide/College/McCombsSchoolOfBusiness.md
 ---
 
 # College of Natural Science
+CS 371N: NATURAL LANGUAGE PROCESSING
+任课教授：Gregory Durrett
+授课形式：线下
+上该课的学期：Fall 2023
+Expected Letter Grade：A-/B+
+评分：
+
+- 教授 Office Hour：5.0
+- 教授口齿清晰程度：5.0
+- 课程作业量：4.0
+- 课程阅读量：2.0
+- 作业难度：4.0
+- 考试难度：3.0
+- Lecture Recording：有
+- Lecture Attendance：不记录
+- Discussion Session：无
+- Extra Credit：有
+- 教授授课水平：4.0
+  详细评价/建议：
+  - 对于拥有较好Python与机器学习基础，且对自然语言处理有兴趣的同学推荐；不推荐上完CS 331 Algorithm就不想再见到任何数学符号的人上
+
+CS 363N: INTRODUCTION TO MACHINE LEARNING I
+任课教授：Angie Beasley
+授课形式：线下
+上该课的学期：Fall 2023
+Expected Letter Grade：A
+评分：
+
+- 教授 Office Hour：3.0
+- 教授口齿清晰程度：4.0
+- 课程作业量：2.0
+- 课程阅读量：2.0
+- 作业难度：2.0
+- 考试难度：2.0
+- Lecture Recording：有
+- Lecture Attendance：不记录
+- Discussion Session：无
+- Extra Credit：未知
+- 教授授课水平：4.0
+  详细评价/建议：
+  - 非常轻松愉快的CS UDE，且每学期一般开设三个section，因此特别适合搭配OS / Concurrency / Graphics等高难度UD食用；应做好一定量美高水平数学运算的准备。
+
+M 362K: PROBABILITY
+任课教授：Hector Lomeli
+授课形式：线下
+上该课的学期：Fall 2023
+评分：
+
+- 教授 Office Hour：1.0
+- 教授口齿清晰程度：1.0
+- 课程作业量：3.0
+- 课程阅读量：3.0
+- 作业难度：5.0
+- 考试难度：3.0
+- Lecture Recording：有
+- Lecture Attendance：不记录
+- Discussion Session：无
+- Extra Credit：无
+- 教授授课水平：2.0
+  详细评价/建议：
+  - 别上了，换人吧
+
+CH 381: ADVANCED ANALYTICAL CHEMISTRY
+任课教授：Hang Ren
+授课形式：线下
+上该课的学期：Fall 2023
+评分：
+
+- 教授 Office Hour：4.0
+- 教授口齿清晰程度：5.0
+- 课程作业量：4.0
+- 课程阅读量：2.0
+- 作业难度：4.0
+- 考试难度：5.0
+- Lecture Recording：否
+- Lecture Attendance：不记录
+- Discussion Session：无
+- Extra Credit：有
+- 教授授课水平：5.0
+  详细评价/建议：
+  - Good
+
+BCH 395J: GENES/GENOMES/GENETICS EXPRESSION
+任课教授：Rick
+授课形式：线下
+上该课的学期：Fall 2023
+评分：
+
+- 教授 Office Hour：4.0
+- 教授口齿清晰程度：5.0
+- 课程作业量：4.0
+- 课程阅读量：3.0
+- 作业难度：4.0
+- 考试难度：5.0
+- Lecture Recording：否
+- Lecture Attendance：不记录
+- Discussion Session：无
+- Extra Credit：无
+- 教授授课水平：5.0
+  详细评价/建议：
+  - Very good useful but challenging
+
+M 365D: REAL ANALYSIS II
+任课教授：William Beckner
+授课形式：线下
+上该课的学期：Spring 2023
+Expected Letter Grade：A
+评分：
+
+- 教授 Office Hour：2.0
+- 教授口齿清晰程度：3.0
+- 课程作业量：1.0
+- 课程阅读量：5.0
+- 作业难度：5.0
+- 考试难度：1.0
+- Lecture Recording：有
+- Lecture Attendance：不记录
+- Discussion Session：无
+- Extra Credit：无
+- 教授授课水平：1.0
+  详细评价/建议：
+  - 老爷子不知道还能再教几年，课上听不懂一点，我们觉得难如天书的东西在他来看就像1+1=2那样简单吧，全靠自己课后学。打分系统很迷，但A率不低。如果很想学高阶的实分析，建议365C拿A，然后秋季申graduate的381C。这门课并不是很有用。
+
+CS 331: ALGORITHM AND COMPLEXITY
+任课教授：Vijaya Ramachandran
+授课形式：线下
+上该课的学期：Spring 2023
+Expected Letter Grade：A
+评分：
+
+- 教授 Office Hour：4.0
+- 教授口齿清晰程度：2.0
+- 课程作业量：4.0
+- 课程阅读量：4.0
+- 作业难度：4.0
+- 考试难度：5.0
+- Lecture Recording：有
+- Lecture Attendance：记录
+- Discussion Session：有，不记考勤
+- Extra Credit：无
+- 教授授课水平：3.0
+  详细评价/建议：
+  - 如同避瘟神一样的避开Vijaya Ramachandran ---- 除非想不开，否则永远优先Fares Fraij和Dana Moshkovitz，次之Greg Plaxton和Eric Price。至于Sp24要上Algo Honors的，祝你们抢Shuchi Chawla好运 :)
+CS 371N: NATURAL LANGUAGE PROCESSING
+任课教授：Greg Durrett
+授课形式：线下
+上该课的学期：Fall 2023
+评分：
+
+- 教授 Office Hour：1.0
+- 教授口齿清晰程度：4.0
+- 课程作业量：4.0
+- 课程阅读量：1.0
+- 作业难度：4.0
+- 考试难度：4.0
+- Lecture Recording：有
+- Lecture Attendance：不记录
+- Discussion Session：无
+- Extra Credit：无
+- 教授授课水平：3.0
+  详细评价/建议：
+  - Project小复杂
 
 HDF 313: CHILDREN DEVELOPMENT
 任课教授:Hallie Speranza 上该课的学期: Fall 2022
